@@ -2,3 +2,8 @@
 ## Descripción
 Repositorio de la segunda Clase de R 2019
 Practica de repositorio
+
+Esta practica esta resultando mas dificil de lo esperado
+
+# Rstudio esta complicado
+## Ya no somos crack
